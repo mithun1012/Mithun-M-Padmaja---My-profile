@@ -1,6 +1,6 @@
 # Mithun M Padmaja - My profile
 
-Budding Data Scientist who completed Msc in Data Science and Analytics from the University of Leeds (passed with Distinction). 
+Budding Data Scientist who completed Msc in Data Science and Analytics from the University of Leeds.
 
 Truly interested and passionate in shaping data to make decisions for business improvements. There is hardly any field where science of Data Analysis has not made its presence felt. I have realised that the art of processing and understanding the humongous amount of data in a scientific way can help in effective decision making, leading to the implementation of more innovative ideas for successful outcomes. With opportunities in the domain of Data Analytics growing at a rapid rate, I wish to establish myself as a skilled Data Scientist in the industry and hence changed my career direction from the world of Testing/QA to the world of Data Science & Machine Learning.
 
